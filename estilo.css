@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+}
+
+div#caixa {
+  margin: auto;
+  margin-bottom: 80px;
+  margin-right: 230px;
+  
+}
+
+p.box {
+   text-align: center;
+   margin-top: 100px;
+}
+div {
+  background-color: #032D44;
+  color: #eee;
+  width: 126px;
+  border-radius: 15px;
+  padding: 2px;
+}
