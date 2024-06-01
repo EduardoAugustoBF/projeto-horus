@@ -19,6 +19,11 @@ p.box {
    text-align: center;
    margin-top: 100px;
 }
+
+ .horus {
+  
+  width: 150px;
+ }
 div {
   background-color: #032D44;
   color: #eee;
